@@ -1,0 +1,10 @@
+path: C:\Users\VICTUS\Downloads\data (1)-20260312T044554Z-3-001\data (1)
+train: C:\Users\VICTUS\Downloads\data (1)-20260312T044554Z-3-001\data (1)\train\images
+val: C:\Users\VICTUS\Downloads\data (1)-20260312T044554Z-3-001\data (1)\valid\images
+test: C:\Users\VICTUS\Downloads\data (1)-20260312T044554Z-3-001\data (1)\test\images
+
+nc: 3
+names:
+  0: Platelets
+  1: RBC
+  2: WBC
